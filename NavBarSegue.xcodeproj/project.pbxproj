@@ -13,6 +13,7 @@
 		D0CE35A7214743C3003B23A3 /* NavBarSegue.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0CE35A5214743C3003B23A3 /* NavBarSegue.xcdatamodeld */; };
 		D0CE35A9214743C3003B23A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0CE35A8214743C3003B23A3 /* Assets.xcassets */; };
 		D0CE35AC214743C3003B23A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0CE35AA214743C3003B23A3 /* LaunchScreen.storyboard */; };
+		D0CE35B421476499003B23A3 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE35B321476499003B23A3 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0CE35A8214743C3003B23A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0CE35AB214743C3003B23A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0CE35AD214743C3003B23A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0CE35B321476499003B23A3 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D0CE359E214743C3003B23A3 /* AppDelegate.swift */,
 				D0CE35A0214743C3003B23A3 /* ViewController.swift */,
 				D0CE35A2214743C3003B23A3 /* Main.storyboard */,
+				D0CE35B321476499003B23A3 /* SecondVC.swift */,
 				D0CE35A8214743C3003B23A3 /* Assets.xcassets */,
 				D0CE35AA214743C3003B23A3 /* LaunchScreen.storyboard */,
 				D0CE35AD214743C3003B23A3 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				D0CE35A7214743C3003B23A3 /* NavBarSegue.xcdatamodeld in Sources */,
 				D0CE35A1214743C3003B23A3 /* ViewController.swift in Sources */,
+				D0CE35B421476499003B23A3 /* SecondVC.swift in Sources */,
 				D0CE359F214743C3003B23A3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
